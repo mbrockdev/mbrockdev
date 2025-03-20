@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Matt Brock  
+# 👋 Welcome to My GitHub – Matt Brocklehurst
 
-I'm an **electronics engineer** based in **Lancaster, UK**, specializing in:  
-⚡ **Firmware Development** – Bare-metal, embedded C++, and Python  
-🔌 **PCB Design** – Schematic capture, layout, and hardware bring-up  
-💻 **Software & Automation** – Python, C++, Linux, Windows, and GPIB-controlled test setups  
+I am an **electronics engineer** based in **Lancaster, UK**, with expertise in:  
+- **Firmware Development** – Bare-metal programming, embedded C++, and Python  
+- **PCB Design** – Schematic capture, layout, and hardware validation  
+- **Software & Automation** – Python, C++, Linux, Windows, and GPIB-based test systems  
 
-I work on everything from **low-level embedded systems** to **full-stack test automation**. My repos feature projects in **firmware, hardware design, automation tools, and embedded development**.  
+My work spans **low-level embedded systems**, **hardware design**, and **automated test solutions**. 
+
 
