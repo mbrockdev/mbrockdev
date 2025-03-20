@@ -7,4 +7,3 @@ I'm an **electronics engineer** based in **Lancaster, UK**, specializing in:
 
 I work on everything from **low-level embedded systems** to **full-stack test automation**. My repos feature projects in **firmware, hardware design, automation tools, and embedded development**.  
 
-🚀 Always exploring new tech and improving workflows in electronics and firmware. Feel free to check out my projects and connect!  
